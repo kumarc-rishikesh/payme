@@ -20,19 +20,19 @@
   (major1) == 4 && (major2) <  18 || \
   (major1) == 4 && (major2) == 18 && (minor) <= 2)
 #endif /* MIN_VERSION_base */
-/* package esqueleto-3.5.11.2 */
+/* package esqueleto-3.5.13.0 */
 #ifndef VERSION_esqueleto
-#define VERSION_esqueleto "3.5.11.2"
+#define VERSION_esqueleto "3.5.13.0"
 #endif /* VERSION_esqueleto */
 #ifndef MIN_VERSION_esqueleto
 #define MIN_VERSION_esqueleto(major1,major2,minor) (\
   (major1) <  3 || \
   (major1) == 3 && (major2) <  5 || \
-  (major1) == 3 && (major2) == 5 && (minor) <= 11)
+  (major1) == 3 && (major2) == 5 && (minor) <= 13)
 #endif /* MIN_VERSION_esqueleto */
-/* package persistent-2.14.6.1 */
+/* package persistent-2.14.6.3 */
 #ifndef VERSION_persistent
-#define VERSION_persistent "2.14.6.1"
+#define VERSION_persistent "2.14.6.3"
 #endif /* VERSION_persistent */
 #ifndef MIN_VERSION_persistent
 #define MIN_VERSION_persistent(major1,major2,minor) (\
@@ -50,15 +50,15 @@
   (major1) == 1 && (major2) <  12 || \
   (major1) == 1 && (major2) == 12 && (minor) <= 2)
 #endif /* MIN_VERSION_time */
-/* package uuid-1.3.15 */
+/* package uuid-1.3.16 */
 #ifndef VERSION_uuid
-#define VERSION_uuid "1.3.15"
+#define VERSION_uuid "1.3.16"
 #endif /* VERSION_uuid */
 #ifndef MIN_VERSION_uuid
 #define MIN_VERSION_uuid(major1,major2,minor) (\
   (major1) <  1 || \
   (major1) == 1 && (major2) <  3 || \
-  (major1) == 1 && (major2) == 3 && (minor) <= 15)
+  (major1) == 1 && (major2) == 3 && (minor) <= 16)
 #endif /* MIN_VERSION_uuid */
 
 /* tool cpphs-1.20.9 */
