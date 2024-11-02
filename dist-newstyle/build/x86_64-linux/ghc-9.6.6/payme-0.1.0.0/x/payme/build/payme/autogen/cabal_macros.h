@@ -40,16 +40,6 @@
   (major1) == 0 && (major2) <  1 || \
   (major1) == 0 && (major2) == 1 && (minor) <= 0)
 #endif /* MIN_VERSION_payme */
-/* package persistent-2.14.6.3 */
-#ifndef VERSION_persistent
-#define VERSION_persistent "2.14.6.3"
-#endif /* VERSION_persistent */
-#ifndef MIN_VERSION_persistent
-#define MIN_VERSION_persistent(major1,major2,minor) (\
-  (major1) <  2 || \
-  (major1) == 2 && (major2) <  14 || \
-  (major1) == 2 && (major2) == 14 && (minor) <= 6)
-#endif /* MIN_VERSION_persistent */
 /* package persistent-sqlite-2.13.3.0 */
 #ifndef VERSION_persistent_sqlite
 #define VERSION_persistent_sqlite "2.13.3.0"

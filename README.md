@@ -24,3 +24,6 @@ liveness and readiness
 Migrations
 
 Config & env vars
+
+
+following John Cinnamond's playlist : https://www.youtube.com/playlist?list=PL_xLFzLxV97f3Osv2Fz3wzGuWrdEE9pa2
